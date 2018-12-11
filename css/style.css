@@ -4,12 +4,10 @@ html {
   height: 100%;
   background-color: rgb(249,228,226);
   background-image: url('../img/bg.jpg');
-  background-size: 100%;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: 0px 0px;
   background-attachment: fixed;
-  overflow-x: hidden; 
-  overflow-y: auto;
 }
 
 footer {
