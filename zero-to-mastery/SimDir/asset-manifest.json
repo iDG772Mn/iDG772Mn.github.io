@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.ceabdc8b.chunk.css",
-  "main.js": "/static/js/main.29d723b2.chunk.js",
-  "main.js.map": "/static/js/main.29d723b2.chunk.js.map",
-  "static/css/1.ebcf23f7.chunk.css": "/static/css/1.ebcf23f7.chunk.css",
-  "static/js/1.a73a96e7.chunk.js": "/static/js/1.a73a96e7.chunk.js",
-  "static/js/1.a73a96e7.chunk.js.map": "/static/js/1.a73a96e7.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/1.ebcf23f7.chunk.css.map": "/static/css/1.ebcf23f7.chunk.css.map",
-  "static/css/main.ceabdc8b.chunk.css.map": "/static/css/main.ceabdc8b.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.b3174ee06969d8491d0ca61c140c0edc.js": "/precache-manifest.b3174ee06969d8491d0ca61c140c0edc.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/zero-to-mastery/SimDir/static/css/main.ceabdc8b.chunk.css",
+  "main.js": "/zero-to-mastery/SimDir/static/js/main.cdb4ca5e.chunk.js",
+  "main.js.map": "/zero-to-mastery/SimDir/static/js/main.cdb4ca5e.chunk.js.map",
+  "static/css/1.ebcf23f7.chunk.css": "/zero-to-mastery/SimDir/static/css/1.ebcf23f7.chunk.css",
+  "static/js/1.a73a96e7.chunk.js": "/zero-to-mastery/SimDir/static/js/1.a73a96e7.chunk.js",
+  "static/js/1.a73a96e7.chunk.js.map": "/zero-to-mastery/SimDir/static/js/1.a73a96e7.chunk.js.map",
+  "runtime~main.js": "/zero-to-mastery/SimDir/static/js/runtime~main.86031e71.js",
+  "runtime~main.js.map": "/zero-to-mastery/SimDir/static/js/runtime~main.86031e71.js.map",
+  "static/css/main.ceabdc8b.chunk.css.map": "/zero-to-mastery/SimDir/static/css/main.ceabdc8b.chunk.css.map",
+  "static/css/1.ebcf23f7.chunk.css.map": "/zero-to-mastery/SimDir/static/css/1.ebcf23f7.chunk.css.map",
+  "index.html": "/zero-to-mastery/SimDir/index.html",
+  "precache-manifest.fad8f8ffe7d39b33062b84061dd590ce.js": "/zero-to-mastery/SimDir/precache-manifest.fad8f8ffe7d39b33062b84061dd590ce.js",
+  "service-worker.js": "/zero-to-mastery/SimDir/service-worker.js"
 }
